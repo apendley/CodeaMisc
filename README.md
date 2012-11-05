@@ -5,6 +5,5 @@ Requires Codea 1.5 (beta) or greater. Downloads a file at the specified URL and 
 
 Usage:
 
-<code>importURL("<URL>")</code>
-or
-<code>importURL("<tabname>", "<URL>")</code>
+* <code>importURL(url)</code>
+* <code>importURL(tabname, url)</code>
